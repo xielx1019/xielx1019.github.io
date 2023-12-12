@@ -28,15 +28,15 @@
 
 <h3>20203616作业展示；</h3>
 <div class="a">
-     <a href="XieLX/homeWork/20213616-20230906.text">第一次作业（9月6日）</a>
+     <a href="E:\Git\XieLX/homeWork/20213616-20230906.text">第一次作业（9月6日）</a>
      </br>
-     <a href="XieLX/homeWork20213616-20230913.html">第二次作业（9月13日）</a>
+     <a href="E:\Git\XieLX/homeWork20213616-20230913.html">第二次作业（9月13日）</a>
      </br>
-     <a href="XieLX/homeWork20213616-20230920.html">第三次作业（9月20日）</a>
+     <a href="E:\Git\XieLX/homeWork20213616-20230920.html">第三次作业（9月20日）</a>
      </br>
-     <a href="XieLX/homeWork20213616-20230927.html">第四次作业（9月27日）</a>
+     <a href="E:\Git\XieLX/homeWork20213616-20230927.html">第四次作业（9月27日）</a>
      </br>
-     <a href="XieLX/homeWork视频播放.html">视频播放（10月11日and10月18日）</a>
+     <a href="E:\Git\XieLX/homeWork视频播放.html">视频播放（10月11日and10月18日）</a>
 </div>
 </body>
 </html>
