@@ -1,7 +1,7 @@
 var mediaData = {
   audioPath: "https://jxzy-dmxy.jxstnu.edu.cn/",  
   imageUrl:["images/myFace1.jpg","images/myFace2.jpg","images/myFace3.jpg","images/myFace4.jpg","images/myFace5.jpg","images/backgroundImage.jpg"],
-  names:["刘子欣","鄢佳文","曾志彤","谢礼翔","唐恒彬"],
+  names:["谢礼翔","刘子欣","鄢佳文","曾志彤","唐恒彬"],
   audioFiles: [
     {fileName:["linuxCMD-3.mp3" ],
      titles : ["Explore the system","The next heading is Switch Options, parameters."," One-character format","Run the less command to view the file content.","Take a guided tour","symlinks","hard-wired","summary"] ,
